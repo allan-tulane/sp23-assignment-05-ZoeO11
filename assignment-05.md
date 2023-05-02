@@ -28,6 +28,8 @@ as few coins as possible that sum to $N$. Please discuss if this algorithm is op
 
 **1b)** What is the work and span of your algorithm?
 
+
+
 **enter answer in `answers.md`**
 
 
@@ -47,6 +49,7 @@ possible?
   greedy algorithm does not produce the fewest number of coins. Please discuss why greedy algorithm cannot work optionally. 
   
 **enter answer in `answers.md`**
+
 
 
 
